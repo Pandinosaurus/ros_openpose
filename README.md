@@ -1,6 +1,6 @@
 # ros_openpose
 
-ROS wrapper for OpenPose | It supports *(currently, but others are planned)*-
+ROS wrapper for OpenPose | It supports the following-
 
 
 - [x] Any color camera such as webcam etc :heavy_check_mark:
